@@ -1,0 +1,11 @@
+/student_management_system
+    /assets
+        /css
+            - style.css
+    /includes
+        - db_connect.php
+    - index.php
+    - add_student.php
+    - view_students.php
+    - update_student.php
+    - delete_student.php
