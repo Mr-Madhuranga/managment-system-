@@ -23,8 +23,3 @@ To run this project locally, you will need:
 1. XAMPP or WAMP: To create a local PHP development environment.
 2. MySQL: As the database engine to store student data.
 
-🔥 Installation Instructions
-
-1. Clone or Download the Project
-
-git clone https://github.com/Mr-Madhuranga/management-system.git
